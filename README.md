@@ -33,7 +33,7 @@ A minimal and fast real-time chat platform using MERN + Socket.io.
 ✔ Instant messaging  
 ✔ Clean architecture  
 ✔ Optimized event flow  
-🔗 Repo: *https://github.com/riyaagrawal-0025/Quick-ChatApp*  
+🔗 Repo: *https://github.com/riyaagrawal02/Quick-ChatApp*  
 
 ---
 
@@ -42,7 +42,7 @@ Live data monitoring with a clean dashboard and efficient state management.
 ✔ Real-time updates  
 ✔ Beautiful UI  
 ✔ Smooth API logic  
-🔗 Repo: *https://github.com/riyaagrawal-0025/realtimetracking*  
+🔗 Repo: *https://github.com/riyaagrawal02/Real-time_Tracking_System*  
 
 ---
 
