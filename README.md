@@ -57,12 +57,12 @@ Next-gen real-time stock tracker with modern UI, charts, and live streaming data
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaagrawal-0025&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaagrawal02&theme=default" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyaagrawal-0025&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaagrawal-0025&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riyaagrawal02&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaagrawal02&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
@@ -74,6 +74,9 @@ Next-gen real-time stock tracker with modern UI, charts, and live streaming data
   </a>
   <a href="mailto:riyaagrawal0205@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/riya_agrawal0205">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
