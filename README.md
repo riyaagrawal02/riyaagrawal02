@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://whyankush.wtf/missagrawal.png width="70%" alt="Imagine Win Banner">
+  <img src="https://whyankush.wtf/missagrawal.jpg width="70%" alt="Miss Agrawal">
 </div>
 
 ---
