@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://whyankush.wtf/missagrawal.jpg width="70%" alt="Miss Agrawal">
+  <img src="./missagrawal.jpg width="70%" alt="Miss Agrawal">
 </div>
 
 ---
