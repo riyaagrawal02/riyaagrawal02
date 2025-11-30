@@ -50,7 +50,7 @@ Live data monitoring with a clean dashboard and efficient state management.
 
 ---
 
-### 🔹 **Signalist — Stock Tracker (In Progress)**  
+### 🔹 **SignalX — Stock Tracker (In Progress)**  
 Next-gen real-time stock tracker with modern UI, charts, and live streaming data.  
 ✔ Live updates  
 ✔ Crisp UI with Tailwind  
