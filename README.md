@@ -31,6 +31,18 @@ Currently exploring **Next.js, 3D experiences, AI agents**.
 ---
 
 ## 🧩 Featured Work 
+### 🔹**Nutraxia — Smart Health & Habit Platform**
+
+A full-stack health and wellness platform focused on habit building, daily routines, and personalized user insights.  
+✔ Secure authentication & user dashboards 
+
+✔ Interactive charts, reminders, and preferences 
+
+✔ Scalable full-stack architecture (Next.js + MongoDB) 
+
+🔗 Repo: *https://github.com/riyaagrawal02/Nutraxia*  
+
+---
 
 ### 🔹 **QuickChat — Real-Time Chat App**  
 A minimal and fast real-time chat platform using MERN + Socket.io.  
@@ -47,15 +59,6 @@ Live data monitoring with a clean dashboard and efficient state management.
 ✔ Beautiful UI  
 ✔ Smooth API logic  
 🔗 Repo: *https://github.com/riyaagrawal02/Real-time_Tracking_System*  
-
----
-
-### 🔹 Nutraxia — Smart Health & Habit Platform 
-A full-stack health and wellness platform focused on habit building, daily routines, and personalized user insights.
-✔ Secure authentication & user dashboards
-✔ Interactive charts, reminders, and preferences
-✔ Scalable full-stack architecture (Next.js + MongoDB)
-🔗 Repo: *https://github.com/riyaagrawal02/Nutraxia* 
 
 ---
 
