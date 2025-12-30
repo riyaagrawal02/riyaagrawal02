@@ -50,12 +50,12 @@ Live data monitoring with a clean dashboard and efficient state management.
 
 ---
 
-### 🔹 **SignalX — Stock Tracker (In Progress)**  
-Next-gen real-time stock tracker with modern UI, charts, and live streaming data.  
-✔ Live updates  
-✔ Crisp UI with Tailwind  
-✔ API-driven server logic  
-🚧 Currently building  
+### 🔹 Nutraxia — Smart Health & Habit Platform 
+A full-stack health and wellness platform focused on habit building, daily routines, and personalized user insights.
+✔ Secure authentication & user dashboards
+✔ Interactive charts, reminders, and preferences
+✔ Scalable full-stack architecture (Next.js + MongoDB)
+🔗 Repo: *https://github.com/riyaagrawal02/Nutraxia* 
 
 ---
 
