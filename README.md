@@ -15,7 +15,7 @@
 I’m a full-stack developer who learns by building — exploring concepts, applying them in real projects, and improving as I go. I’m focused on creating clean, modern web experiences while gradually strengthening my understanding of scalable systems and better architecture.  
 Currently exploring **Next.js, 3D experiences, AI agents**.
 
-- 🔭 Currently building **Signalist — Real-time Stock Tracker App**  
+- 🔭 Currently building **Nutraxia — Smart Health & Habit Platform**  
 - ⚙️ Skilled in **Java, MERN, Next.js, Three.js, UI/UX, AI workflows**  
 - 🎯 Focused on writing **clean code**, scalable backend, and polished UI  
 - 🌱 Exploring: **System Design  • AI Agents**  
