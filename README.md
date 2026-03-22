@@ -82,6 +82,7 @@ A real-time chat platform built using MERN and Socket.io.
 ✔ REST APIs & MongoDB backend  
 🔗 Repo: https://github.com/riyaagrawal02/Quick-ChatApp  
 🌐 Live: https://quickchat.riyaagrawal.dev  
+
 ---
 
 ## 📊 GitHub Stats
