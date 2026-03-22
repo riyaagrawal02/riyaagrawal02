@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <p align="center">
-  <b>Full-Stack Developer • MERN • Next.js • TypeScript • ThreejsL • WebSockets • AI Integrations</b><br/>
+  <b>Full-Stack Developer • MERN • Next.js • TypeScript • Threejs • WebSockets • AI Integrations</b><br/>
   Building smart, scalable, and modern digital experiences.
 </p>
 
