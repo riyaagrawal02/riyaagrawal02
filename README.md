@@ -85,15 +85,12 @@ A real-time chat platform built using MERN and Socket.io.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaagrawal02&theme=default" height="160" />
-</p>
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyaagrawal02&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaagrawal02&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyaagrawal02&theme=react-dark"/>
 </p>
+
 
 ---
 
